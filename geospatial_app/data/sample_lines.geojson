@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simple River",
+        "popupContent": "A small, winding river."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-0.5, 51.5], [-0.4, 51.6], [-0.3, 51.4], [-0.2, 51.55]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Straight Canal",
+        "popupContent": "An artificial waterway."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [0.1, 51.3], [0.1, 51.4], [0.1, 51.5], [0.1, 51.6]
+        ]
+      }
+    }
+  ]
+}

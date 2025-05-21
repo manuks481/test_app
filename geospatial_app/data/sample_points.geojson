@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Null Island Lighthouse",
+        "amenity": "Lighthouse",
+        "popupContent": "This is Null Island!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greenwich Observatory",
+        "amenity": "Observatory",
+        "popupContent": "The Prime Meridian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.0005, 51.4769]
+      }
+    }
+  ]
+}
